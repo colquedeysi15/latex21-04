@@ -1,0 +1,17 @@
+*{
+  margin: 20px;
+  padding: 20px;
+  height: 100vh;
+  background-image: url(imagenes/Man.jpg);
+  background-color: black;
+  background-repeat: no-repeat;
+  background-size: cover;
+  background-position: center center;
+  
+}
+
+.imagen{
+    
+    width: 150px;
+    height: 50px;
+}
